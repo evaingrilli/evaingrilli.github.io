@@ -1,0 +1,23 @@
+h1{
+color: dodgerblue;
+font-size: 18;
+font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: white;
+}
+h5{
+    color: dodgerblue
+    font-size: 24;
+}
+
+p{
+    text-indent: 20px;
+}
+
+hr{
+    color: dodgerblue;
+    height: 10px;
+    width: 50%
+}
