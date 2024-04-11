@@ -1,0 +1,90 @@
+
+body {background-color:cornsilk}
+
+
+h1{
+    color: black
+    font-size: 18;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+
+
+#test2{
+    position: absolute; top: 10 px; left: 500px;
+    background-color:rgb(172, 234, 255);
+    padding: .5px
+}
+
+#test3{
+    position: absolute; top: 110px; left: 10px;
+}
+
+#test4{
+    position: absolute; top: 110px; left: 815px;
+}
+
+#test5{
+    position: absolute; top: 350px; left: 815px;
+    background-color: rgb(172, 234, 255)
+
+}
+
+#test6{
+    position: absolute; top: 310px; left: 815px;
+
+}
+
+#test7{
+    position: absolute; top: 375px; left:815px;
+    background-color: rgb(172, 234, 255)
+
+}
+
+#test8{
+    position: absolute; top: 400px; left: 815px;
+    background-color: rgb(172, 234, 255)
+
+}
+
+#test9{
+    position: absolute; top: 425px; left: 815px;
+    background-color: rgb(172, 234, 255)
+
+}
+
+#test10{
+    position: absolute; top: 450px; left: 815px;
+    background-color: rgb(172, 234, 255)
+
+}
+
+#test11{
+    position: absolute; top: 475px; left: 815px;
+    background-color: rgb(172, 234, 255)
+
+}
+
+#test12{
+    position: absolute; top: 500px; left: 815px;
+    background-color: rgb(172, 234, 255)
+
+}
+
+#test13{
+    position: absolute; top: 525px; left: 815px;
+    background-color: rgb(172, 234, 255)
+
+}
+
+#test14{
+    position: absolute; top: 550px; left: 815px;
+    background-color: rgb(172, 234, 255)
+
+}
+
+#test15{
+    position: absolute; top: 575px; left: 815px;
+    background-color: rgb(172, 234, 255)
+
+}
